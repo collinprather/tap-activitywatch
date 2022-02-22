@@ -21,7 +21,6 @@ tap is available by running:
 tap-activitywatch --about
 ```
 
-
 ## Usage
 
 You can easily run `tap-activitywatch` by itself or in a pipeline using [Meltano](https://meltano.com/).
@@ -89,5 +88,5 @@ meltano elt tap-activitywatch target-jsonl
 
 ### SDK Dev Guide
 
-See the [dev guide](https://sdk.meltano.com/en/latest/dev_guide.html) for more instructions on how to use the SDK to 
+See the [dev guide](https://sdk.meltano.com/en/latest/dev_guide.html) for more instructions on how to use the SDK to
 develop your own taps and targets.
